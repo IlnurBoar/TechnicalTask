@@ -1,0 +1,2 @@
+# TechnicalTask
+Singleton CRUD 
