@@ -120,16 +120,3 @@
 
 
 
-<?php
-include_once "config/config.php";
-
-	?>
-
-	<!--<li>
-		<a href="#"><?php echo $result->ProductName ?> </a>
-
-	</li>-->
-	<?php
-// }
-
-?>
